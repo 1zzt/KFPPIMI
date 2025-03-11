@@ -12,15 +12,15 @@ Here, we propose a knowledge-fused modulator-PPI interaction prediction method (
 
 ## Packages Required
 python==3.9.0  
-numpy 1.24.3  
-pandas 2.2.3  
-scipy 1.13.1  
-torch 2.3.1  
-tokenizers 0.20.0  
-transformers 4.45.1  
-networkx 3.2.1  
-rdkit 2024.3.5  
-scikit-learn 1.5.2
+numpy==1.24.3  
+pandas==2.2.3  
+scipy==1.13.1  
+torch==2.3.1  
+tokenizers==0.20.0  
+transformers==4.45.1  
+networkx==3.2.1  
+rdkit==2024.3.5  
+scikit-learn==1.5.2
 
 ## Pretraining
 ### Mol
