@@ -45,3 +45,5 @@ python struc2vec/train_stru2vec.py
 ```
 python go/main.py
 ```
+GO embeddings encoded using our trained model can be downloaded from:
+[https://drive.google.com/file/d/183p_05qxH906f0UfN4MGBFHQsYO7tFcB/view?usp=drive_link](https://drive.google.com/file/d/183p_05qxH906f0UfN4MGBFHQsYO7tFcB/view?usp=drive_link)
