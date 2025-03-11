@@ -11,7 +11,7 @@ Here, we propose a knowledge-fused modulator-PPI interaction prediction method (
  - S4 (new modulator-new PPI target): modulators and PPIs in the test set are completely invisible during training.
 
 ## Packages Required
-python 3.9.0 
+python 3.9.0
 numpy 1.24.3
 pandas 2.2.3
 scipy 1.13.1
