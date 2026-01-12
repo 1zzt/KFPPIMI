@@ -47,3 +47,13 @@ python go/main.py
 ```
 GO embeddings encoded using our trained model can be downloaded from:
 [https://drive.google.com/file/d/183p_05qxH906f0UfN4MGBFHQsYO7tFcB/view?usp=drive_link](https://drive.google.com/file/d/183p_05qxH906f0UfN4MGBFHQsYO7tFcB/view?usp=drive_link)
+
+## Cite us
+@article{zhang2025improving,
+  title={Improving protein-protein interaction modulator predictions via knowledge-fused language models},
+  author={Zhang, Zitong and Zou, Quan and Wang, Chunyu and Wang, Junjie and Zhao, Lingling},
+  journal={Information Fusion},
+  pages={103227},
+  year={2025},
+  publisher={Elsevier}
+}
